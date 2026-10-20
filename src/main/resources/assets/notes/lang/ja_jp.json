@@ -4,8 +4,8 @@
 
     "_comment": "TITLES",
     "notes.newNote": "新規作成",
-    "notes.editNote": "編集",
-    "notes.selectNote": "選択",
+    "notes.editNote": "ノートを編集",
+    "notes.selectNote": "ノートを選択",
 
     "_comment": "BUTTONS",
     "notes.biome": "バイオーム",
@@ -16,14 +16,14 @@
     "notes.edit": "編集",
     "notes.global": "グローバル",
     "notes.insert": "挿入",
-    "notes.new": "新規作成",
+    "notes.new": "新規",
     "notes.off": "オフ",
     "notes.on": "オン",
-    "notes.pin": "固定",
-    "notes.pinned": "固定済み",
+    "notes.pin": "ピン留め",
+    "notes.pinned": "ピン留め済",
     "notes.save": "保存",
     "notes.select": "選択",
-    "notes.unpin": "解除",
+    "notes.unpin": "ピン留め解除",
     "notes.view": "表示",
 
     "_comment": "SCOPE",
@@ -32,13 +32,13 @@
     "notes.scope.remote": "リモート",
 
     "_comment": "CATEGORIES",
-    "key.category.notes.keys": "ノート",
+    "key.category.notes.keys": "Notes",
 
     "_comment": "KEYBINDS",
     "key.openNotes": "ノートを開く",
 
     "_comment": "STRINGS",
-    "notes.confirmDelete": "このノートを削除しますか?",
-    "notes.lastModified": "最後の編集",
-    "notes.saveAs": "%sとして保存されます。"
+    "notes.confirmDelete": "このノートを削除しますか？",
+    "notes.lastModified": "最終更新",
+    "notes.saveAs": "%s として保存されます"
 }
